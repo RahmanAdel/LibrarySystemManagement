@@ -43,14 +43,6 @@ public class Login_user extends JFrame implements ActionListener {
 	passwordField.setBounds(210, 128, 157, 20);
 	panel.add(passwordField);
 
-	/*JLabel l3 = new JLabel("");
-	l3.setBounds(377, 79, 46, 34);
-	panel.add(l3);
-
-	JLabel l4 = new JLabel("");
-	l4.setBounds(377, 124, 46, 34);
-	panel.add(l3);
-        */
 	b1 = new JButton("Login");
 	b1.addActionListener(this);
                 
@@ -88,6 +80,7 @@ public class Login_user extends JFrame implements ActionListener {
 	}
         
         public void actionPerformed(ActionEvent ae){
+            calculate_login(1,1);
             if(ae.getSource() == b1){
                 Boolean status = false;
 		try {
@@ -124,5 +117,8 @@ public class Login_user extends JFrame implements ActionListener {
   	public static void main(String[] args) {
                 new Login_user().setVisible(true);
 	}
+        int calculate_login(int n1, int n2){
+            return n1+n2;
+        }
     }
 

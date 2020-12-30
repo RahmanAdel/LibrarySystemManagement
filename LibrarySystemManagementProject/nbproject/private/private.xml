@@ -3,21 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Tech%20Land/OneDrive/Desktop/LibrarySystemManagementProject/src/LSMProject/model/ReturnBook.java</file>
-            <file>file:/C:/Users/Tech%20Land/OneDrive/Desktop/LibrarySystemManagementProject/src/LSMProject/model/StudentDetails.java</file>
-            <file>file:/C:/Users/Tech%20Land/OneDrive/Desktop/LibrarySystemManagementProject/src/LSMProject/controller/Signup.java</file>
-            <file>file:/C:/Users/Tech%20Land/OneDrive/Desktop/LibrarySystemManagementProject/src/LSMProject/model/Statistics.java</file>
-            <file>file:/C:/Users/Tech%20Land/OneDrive/Desktop/LibrarySystemManagementProject/src/LSMProject/view/Loading.java</file>
-            <file>file:/C:/Users/Tech%20Land/OneDrive/Desktop/LibrarySystemManagementProject/src/LSMProject/view/LibraryManagementSystem.java</file>
-            <file>file:/C:/Users/Tech%20Land/OneDrive/Desktop/LibrarySystemManagementProject/src/LSMProject/model/AddBook.java</file>
-            <file>file:/C:/Users/Tech%20Land/OneDrive/Desktop/LibrarySystemManagementProject/src/LSMProject/controller/Login_user.java</file>
-            <file>file:/C:/Users/Tech%20Land/OneDrive/Desktop/LibrarySystemManagementProject/src/LSMProject/model/AddStudent.java</file>
-            <file>file:/C:/Users/Tech%20Land/OneDrive/Desktop/LibrarySystemManagementProject/src/LSMProject/view/Home.java</file>
-            <file>file:/C:/Users/Tech%20Land/OneDrive/Desktop/LibrarySystemManagementProject/src/LSMProject/controller/Forgot.java</file>
-            <file>file:/C:/Users/Tech%20Land/OneDrive/Desktop/LibrarySystemManagementProject/src/LSMProject/model/BookDetails.java</file>
-            <file>file:/C:/Users/Tech%20Land/OneDrive/Desktop/LibrarySystemManagementProject/src/LSMProject/controller/conn.java</file>
-            <file>file:/C:/Users/Tech%20Land/OneDrive/Desktop/LibrarySystemManagementProject/src/LSMProject/model/IssueBook.java</file>
-            <file>file:/C:/Users/Tech%20Land/OneDrive/Desktop/LibrarySystemManagementProject/src/LSMProject/view/aboutUs.java</file>
+            <file>file:/F:/Studies/GitHub%20projects/LibrarySystemManagement/LibrarySystemManagementProject/src/LSMProject/model/ReturnBook.java</file>
+            <file>file:/F:/Studies/GitHub%20projects/LibrarySystemManagement/LibrarySystemManagementProject/src/LSMProject/model/AddBook.java</file>
+            <file>file:/F:/Studies/GitHub%20projects/LibrarySystemManagement/LibrarySystemManagementProject/src/LSMProject/view/Home.java</file>
+            <file>file:/F:/Studies/GitHub%20projects/LibrarySystemManagement/LibrarySystemManagementProject/src/LSMProject/model/BookDetails.java</file>
+            <file>file:/F:/Studies/GitHub%20projects/LibrarySystemManagement/LibrarySystemManagementProject/src/LSMProject/model/AddStudent.java</file>
+            <file>file:/F:/Studies/GitHub%20projects/LibrarySystemManagement/LibrarySystemManagementProject/src/LSMProject/controller/Login_user.java</file>
+            <file>file:/F:/Studies/GitHub%20projects/LibrarySystemManagement/LibrarySystemManagementProject/src/LSMProject/model/IssueBook.java</file>
         </group>
     </open-files>
 </project-private>

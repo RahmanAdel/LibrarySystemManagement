@@ -22,6 +22,9 @@ public class Forgot extends JFrame implements ActionListener{
     public static void main(String[] args) {
 	new Forgot().setVisible(true);
     }
+            int calculate_forgot(int n1, int n2) {
+       return n1+n2; 
+    }
 
     public Forgot() {
 
@@ -128,6 +131,7 @@ public class Forgot extends JFrame implements ActionListener{
     }
     
     public void actionPerformed(ActionEvent ae){
+        calculate_forgot(1,1);
         try{
             conn con = new conn();
             if(ae.getSource() == b1){
@@ -164,4 +168,5 @@ public class Forgot extends JFrame implements ActionListener{
             
         }
     }
+
 }

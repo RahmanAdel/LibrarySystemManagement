@@ -117,6 +117,7 @@ public class Signup extends JFrame implements ActionListener{
     }
     
     public void actionPerformed(ActionEvent ae){
+        calculate_signup(1,1);
         try{
             conn con = new conn();
             
@@ -149,4 +150,7 @@ public class Signup extends JFrame implements ActionListener{
             
         }
     }
+        int calculate_signup(int n1, int n2){
+            return n1+n2;
+        }
 }
