@@ -80,7 +80,7 @@ public class Login_user extends JFrame implements ActionListener {
 	}
         
         public void actionPerformed(ActionEvent ae){
-            calculate_login(1,1);
+            calculate_login(50,50);
             if(ae.getSource() == b1){
                 Boolean status = false;
 		try {

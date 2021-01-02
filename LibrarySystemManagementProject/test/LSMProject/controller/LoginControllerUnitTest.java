@@ -10,17 +10,17 @@ import org.junit.*;
  *
  * @author Adel_Rahman
  */
-public class Login_userTest {
-    Login_user l;
+public class LoginControllerUnitTest {
+    Login_user luser;
     
     @Before 
     public void setUp() throws Exception{
-        l = new Login_user();
+        luser = new Login_user();
     }
     
     @Test
     public void testActionPerformed(){
-        assertEquals(2,l.calculate_login(1, 1));
+        assertEquals(100,luser.calculate_login(50,50));
     }
     
 }

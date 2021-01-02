@@ -160,7 +160,7 @@ public class AddBook extends JFrame implements ActionListener{
     }
     
     public void actionPerformed(ActionEvent ae){
-        calculate_addbook(1,1);
+        calculate_addbook(50,50);
         try{
             conn con = new conn();
             if(ae.getSource() == b1){

@@ -12,17 +12,17 @@ import org.junit.*;
  */
 
 
-public class ForgotTest {
-    Forgot f;
+public class ForgotControllerUnitTest {
+    Forgot fgt;
     
     @Before
     public void setUp() throws Exception{
-        f = new Forgot();
+        fgt = new Forgot();
      }
     
     @Test
     public void testActionPerformed(){
-        assertEquals(2,f.calculate_forgot(1,1));
+        assertEquals(100,fgt.calculate_forgot(50,50));
     }
     
 }

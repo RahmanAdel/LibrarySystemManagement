@@ -3,23 +3,25 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package LSMProject.controller;
+package LSMProject.model;
 import static org.junit.Assert.*;
 import org.junit.*;
+
 /**
  *
  * @author Adel_Rahman
  */
-public class Signup_userTest {
-    Signup s; 
+public class AddBookModelUnitTest {
+    AddBook addb; 
     
     @Before 
-    public void setUp() throws Exception{
-        s = new Signup();
+        public void setUp() throws Exception{
+        addb = new AddBook();
     }
     
     @Test   
     public void testActionPerformed(){
-    assertEquals(2,s.calculate_signup(1,1));
-} 
+        assertEquals(100,addb.calculate_addbook(50,50));
+    } 
+    
 }

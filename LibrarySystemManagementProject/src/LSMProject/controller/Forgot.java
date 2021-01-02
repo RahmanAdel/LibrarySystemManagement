@@ -131,7 +131,7 @@ public class Forgot extends JFrame implements ActionListener{
     }
     
     public void actionPerformed(ActionEvent ae){
-        calculate_forgot(1,1);
+        calculate_forgot(50,50);
         try{
             conn con = new conn();
             if(ae.getSource() == b1){
